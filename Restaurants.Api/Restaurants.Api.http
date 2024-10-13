@@ -1,0 +1,52 @@
+@Restaurants.Api_HostAddress = https://localhost:7059
+@host = http://localhost
+@port = 5099
+@RestaurantsApi_HostAddress = {{host}}:{{port}}
+
+GET {{RestaurantsApi_HostAddress}}/api/restauraunts/
+Accept: application/json
+
+
+###
+
+GET {{RestaurantsApi_HostAddress}}/api/restauraunts/3
+Accept: application/json
+###
+POST {{RestaurantsApi_HostAddress}}/api/restauraunts/
+Content-Type: application/json
+
+{
+  "Name": "New Restaraunt",
+  "Description": "Newly Created Restauraunt",
+  "HasDelivery": true,
+  "IsOpen": true,
+  "ContactNumber": "55555555",
+  "Socials": "nosocials.com",
+  "City": "teslebiscity",
+  "Street": "teslebisqucha",
+  "PostalCode": "teslebiskodi"
+}
+###
+DELETE {{RestaurantsApi_HostAddress}}/api/restauraunts/4
+###
+
+
+POST {{Restaurants.Api_HostAddress}}/api/restauraunts/3/menuItems
+Content-Type: application/json
+
+{
+  "Name" : "Khinkali",
+  "Description" : "Best dumplings in the world.",
+  "Price" : 12,
+  "KiloCalories" : 70
+}
+
+###
+
+GET {{Restaurants.Api_HostAddress}}/api/restauraunts/1/menuItems
+
+###
+
+GET {{Restaurants.Api_HostAddress}}/api/restaurants
+
+###

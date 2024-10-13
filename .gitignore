@@ -1,0 +1,4 @@
+Restaurants.Api/appsettings.Development.json
+Restaurants.Api/appsettings.json
+*.jfm
+*.vs/

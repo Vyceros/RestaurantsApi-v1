@@ -1,0 +1,16 @@
+D:\Restaurants\Restaurants.Application\bin\Debug\net8.0\Restaurants.Application.deps.json
+D:\Restaurants\Restaurants.Application\bin\Debug\net8.0\Restaurants.Application.dll
+D:\Restaurants\Restaurants.Application\bin\Debug\net8.0\Restaurants.Application.pdb
+D:\Restaurants\Restaurants.Application\bin\Debug\net8.0\Restaurants.Domain.dll
+D:\Restaurants\Restaurants.Application\bin\Debug\net8.0\Restaurants.Domain.pdb
+D:\Restaurants\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.csproj.AssemblyReference.cache
+D:\Restaurants\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Restaurants\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.AssemblyInfoInputs.cache
+D:\Restaurants\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.AssemblyInfo.cs
+D:\Restaurants\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.csproj.CoreCompileInputs.cache
+D:\Restaurants\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.csproj.CopyComplete
+D:\Restaurants\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.dll
+D:\Restaurants\Restaurants.Application\obj\Debug\net8.0\refint\Restaurants.Application.dll
+D:\Restaurants\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.pdb
+D:\Restaurants\Restaurants.Application\obj\Debug\net8.0\ref\Restaurants.Application.dll
+D:\Restaurants\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.sourcelink.json
